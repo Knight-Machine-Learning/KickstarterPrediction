@@ -1,6 +1,6 @@
 # KickstarterPrediction
 Predicting if kickstarter projects will succeed or not
-""""
+
 Welcome to my project!
 
 The goal of this project is to create the best classifier to predict whether or not a given kickstarter project will reach its goal. I 
@@ -17,4 +17,4 @@ contains an exclaimation.
 
 Expect to see a very breif data cleaning section followed by an exploratory data analysis focused around success rates, and concluded
 with the creation of a model and assesment of its quality based on total accuracy and a confusion matrix.
-"""
+
