@@ -12,7 +12,7 @@ Since the goal of my project is to maximize prediction accuracy, my exploratory 
 the success rate of projects by certain features.
 
 The features already included in the dataset proved to be beneficial, however I also found that several additional features extracted 
-from a given project's title to have a positive impact on prediction accuracy. Examples of such engineered features are indicators of 
+from a given project's title to have a positive impact on prediction accuracy. Examples of such extracted features are indicators of 
 the number of words in a project's title, whether or not the project title poses a question, and whether or not the project title 
 contains an exclaimation.
 
