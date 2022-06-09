@@ -5,10 +5,11 @@ Welcome to my project!
 
 The goal of this project is to create the best classifier to predict whether or not a given kickstarter project will reach its goal. I 
 will be using the XGBoost classification algorithm for my model. Kickstarter is a crowdfunding platform, and new projects on 
-kickstarter must declare a goal of how much money they hope to raise.
+kickstarter must declare a goal of how much money they hope to raise. This dataset contains all kickstarter projects launched before 2018.
+Since the .csv file is over 25 MB, I can't upload it to GitHub. However, the data can be obtained at the following link: https://www.kaggle.com/datasets/kemical/kickstarter-projects
 
 Since the goal of my project is to maximize prediction accuracy, my exploratory data analysis revolves around calculating and plotting
-the success rate of projects by certain features
+the success rate of projects by certain features.
 
 The features already included in the dataset proved to be beneficial, however I also found that several additional features extracted 
 from a given project's title to have a positive impact on prediction accuracy. Examples of such engineered features are indicators of 
